@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3><p align="center">Hello my name is Arthur Carvalho 👨🏻‍💻 🚀</p></h3>
 <p align="center">I'm a web developer and student</p>
-<a href="https://github.com/rdeconti/"> <img align="right" alt="GIF" width="200px" height="230px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> </a>
+<a href="https://github.com/arthurjunior/"> <img align="right" alt="GIF" width="200px" height="230px" src="https://media.giphy.com/media/xT39DmCvxtzqDxC5c4/source.gif" /> </a>
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/arthug7)](https://twitter.com/arthug7)
