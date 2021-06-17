@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 </p>
 -->
 
-![Renato Reboucas github stats](https://github-readme-stats.vercel.app/api?username=renatoReboucas&show_icons=true&theme=tokyonight")
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoReboucas&layout=compact&theme=tokyonight")
+![Arthur Carvalho github stats](https://github-readme-stats.vercel.app/api?username=arthurjunior&show_icons=true&theme=tokyonight")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjunior&layout=compact&theme=tokyonight")
 
 
 <!-- 
