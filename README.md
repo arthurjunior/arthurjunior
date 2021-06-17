@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/arthug7)](https://twitter.com/arthug7)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devarthur/)](https://www.linkedin.com/in/devarthur/) 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=juliaeduarda-rg&repo=arthurjunior-rg&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=arthurjunior-rg&repo=arthurjunior-rg&countColorcountColor)
 
 
 
