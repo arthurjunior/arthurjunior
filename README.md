@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 <br/>
 <h3><p align="center"> Esse é meu jeito dev de ser!</p></h3>
 <br/>
-
+<!--
 <p align="center">
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 </p>
-
+-->
 
 ![Arthur Carvalho github stats](https://github-readme-stats.vercel.app/api?username=arthurjunior&show_icons=true&theme=tokyonight")
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjunior&layout=compact&theme=tokyonight")
@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 [2.1]: http://i.imgur.com/P3YfQoD.png
 
 
-[1]: https://twitter.com/https_zero6
-[2]: https://www.facebook.com/tinho361/
--->
+[1]: https://twitter.com/
+[2]: https://www.facebook.com/
+
 <h1 align="center">
   <img src="./giphy.gif" alt="developer cat" />
 </h1>
-
+-->
 ## ⚡️ Technologies
 
 These are some of the technologies and tools that I like and study:
