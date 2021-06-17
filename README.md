@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/arthug7)](https://twitter.com/arthug7)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devarthur/)](https://www.linkedin.com/in/devarthur/) 
-[![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=arthurjunior-rg&repo=arthurjunior-rg&countColorcountColor)
+
 
 
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjunior&layout=compact&theme=tokyonight")
 
 
-<!-- 
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   <img src="./giphy.gif" alt="developer cat" />
 </h1>
--->
+
 ## ⚡️ Technologies
 
 These are some of the technologies and tools that I like and study:
