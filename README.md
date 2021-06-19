@@ -32,13 +32,7 @@ Here are some ideas to get you started:
 <h3><p align="center"> Esse é meu jeito dev de ser!</p></h3>
 <br/>
 
-<p align="center">
 
-
-<img <i class="devicon-css3-plain-wordmark"></i>alt="css3"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-</p>
 
 
 ![Arthur Carvalho github stats](https://github-readme-stats.vercel.app/api?username=arthurjunior&show_icons=true&theme=tokyonight")
