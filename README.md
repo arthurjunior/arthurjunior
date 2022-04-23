@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello everyone 👋
+# Hi guys 👋
 
 <h3><p align="center">Hello my name is Arthur Carvalho Gomes Junior 👨🏻‍💻 🚀</p></h3>
 <p align="center">I'm a web developer and student</p>
