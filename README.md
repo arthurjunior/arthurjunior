@@ -38,15 +38,7 @@ Here are some ideas to get you started:
 
 
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
 
-[1.1]: http://i.imgur.com/tXSoThF.png
-[2.1]: http://i.imgur.com/P3YfQoD.png
-
-
-[1]: https://twitter.com/
-[2]: https://www.facebook.com/
 
 <h1 align="center">
   <img src="./giphy.gif" alt="developer cat" />
@@ -59,14 +51,14 @@ Here are some ideas to get you started:
   </h2>
 <br>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=onedark"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arthurjunior&hide=contribs,prs&show_icons=true&theme=onedark"/>
   <div align="right"><img width="300px" height="250px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"></div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=onedark">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjunior&theme=onedark">
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
   <div align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavojuvino&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arthurjunior&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark"/>
   </div>
 </div>
 
