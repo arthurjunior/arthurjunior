@@ -35,11 +35,9 @@ Here are some ideas to get you started:
 
 
 
-![Arthur Carvalho github stats](https://github-readme-stats.vercel.app/api?username=arthurjunior&show_icons=true&theme=tokyonight")
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjunior&layout=compact&theme=tokyonight")
 
 
-<!-- 
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
@@ -53,7 +51,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   <img src="./giphy.gif" alt="developer cat" />
 </h1>
--->
+
 <!--  My GitHub Stats and some gifs  -->
 <div>
   <h2 align='center'>
