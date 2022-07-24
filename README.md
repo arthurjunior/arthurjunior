@@ -54,6 +54,24 @@ Here are some ideas to get you started:
   <img src="./giphy.gif" alt="developer cat" />
 </h1>
 -->
+<!--  My GitHub Stats and some gifs  -->
+<div>
+  <h2 align='center'>
+  My GitHub Stats <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
+  </h2>
+<br>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavojuvino&hide=contribs,prs&show_icons=true&theme=onedark"/>
+  <div align="right"><img width="300px" height="250px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"></div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuvino&theme=onedark">
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+  <div align='center'>
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavojuvino&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark"/>
+  </div>
+</div>
+
 ## ⚡️ Technologies
 
 These are some of the technologies and tools that I like and study:
