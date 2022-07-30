@@ -51,10 +51,7 @@
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-  <div align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=arthurjunior&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark"/>
-  </div>
-</div>
+  
 
 ## ⚡️ Technologies
 
