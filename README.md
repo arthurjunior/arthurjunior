@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=ArthurHydr&color=blueviolet&style=flat">
 <div align='center'>
     <a href="https://github.com/arthurjunior">
-    <img src='src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff"' height='128px' weidth'128px' target="_blank"><br>
+    <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
     <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Arthur%2C+and+I'm+a+Developer">
 </div>
 
@@ -30,27 +30,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjunior&hide_border=1&theme=react&hide=issues&langs_count=5&custom_title=Top%20Languages"/>
 <div>
 
-### Hi, I am Arthur Junior 👋
 
-<!--
-**arthurjunior/arthurjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi guys 👋
-
-<h3><p align="center">Hello my name is Arthur Carvalho Gomes Junior 👨🏻‍💻 🚀</p></h3>
-<p align="center">I'm a web developer and student</p>
-<a href="https://github.com/arthurjunior/"> <img align="right" alt="GIF" width="100px" height="130px" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" /> </a>
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/arthug7)](https://twitter.com/arthug7)
