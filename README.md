@@ -33,22 +33,7 @@
 
 
 
-<h3><p align="center"> "Conhecimento nunca é demais."🧠</p></h3>
-<br/>
-<h3><p align="center"> Esse é meu jeito dev de ser!</p></h3>
-<br/>
 
-
-
-
-
-
-
-
-
-<h1 align="center">
-  <img src="./giphy.gif" alt="developer cat" />
-</h1>
 
 <!--  My GitHub Stats and some gifs  -->
 <div>
