@@ -1,3 +1,35 @@
+<img src="https://komarev.com/ghpvc/?username=ArthurHydr&color=blueviolet&style=flat">
+<div align='center'>
+    <a href="https://github.com/arthurjunior">
+    <img src='https://github.com/dotOttoni/arthurjunior/blob/main/hacker-25897.png' height='128px' weidth'128px' target="_blank"><br>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Arthur%2C+and+I'm+a+Developer">
+</div>
+
+</div>
+  
+  ### ♠️ About Me ♦️
+ 
+```js
+   //I used "const" because I'm CONSTantly evolving
+   const Me = {
+            Skills: "Full stack Developer JR",
+        Main_Langs: "Python",
+      Casual_Langs: "C, C++", 
+         Web_Langs: "Javascript, PHP , SQL",
+              Tech: "Git, NodeJs",
+
+    };
+
+```
+
+ ### 🛠️ GitHub Stats
+
+<div>
+  <a href="https://github.com/arthurjunior">
+  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=ArthurHydr&theme=github&bg_color=20232a&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjunior&hide_border=1&theme=react&hide=issues&langs_count=5&custom_title=Top%20Languages"/>
+<div>
+
 ### Hi, I am Arthur Junior 👋
 
 <!--
