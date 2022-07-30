@@ -1,8 +1,8 @@
-<img src="https://komarev.com/ghpvc/?username=ArthurHydr&color=blueviolet&style=flat">
+<img src="https://komarev.com/ghpvc/?username=arthurjunior&color=blueviolet&style=flat">
 <div align='center'>
     <a href="https://github.com/arthurjunior">
     <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Arthur%2C+and+I'm+a+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Arthur%2C+and+I'm+a+Developer Jr">
 </div>
 
 </div>
