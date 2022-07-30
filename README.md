@@ -45,7 +45,7 @@
   
 <br>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arthurjunior&hide=contribs,prs&show_icons=true&theme=onedark"/>
+
   <div align="right"><img width="300px" height="250px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"></div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjunior&theme=onedark">
 
