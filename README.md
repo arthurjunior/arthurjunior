@@ -16,7 +16,7 @@
         Main_Langs: "Python",
       Casual_Langs: "C, C++", 
          Web_Langs: "Javascript, PHP , SQL",
-              Tech: "Git, NodeJs",
+              Tech: "Git, NodeJs, React",
 
     };
 
