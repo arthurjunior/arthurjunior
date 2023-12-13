@@ -12,11 +12,10 @@
 ```js
    //I used "const" because I'm CONSTantly evolving
    const Me = {
-            Skills: "Full stack Developer JR",
-        Main_Langs: "Python",
-      Casual_Langs: "C, C++", 
-         Web_Langs: "Javascript, TypeScript, PHP , SQL",
-              Tech: "Git, NodeJs, React, HTML, CSS",
+            Skills: "Programador",
+        Main_Langs: "C#",
+      Casual_Langs: "C#, Kotlin, Python, SQL",
+              Tech: "Git, NodeJs, React, HTML, CSS, .Net",
 
     };
 
