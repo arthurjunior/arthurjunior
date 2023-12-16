@@ -18,16 +18,6 @@
     };
 
 ```
-<div>
-  <a href="https://github.com/ARTHURJUNIOR">
-  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=ARTHURJUNIOR&theme=github&bg_color=20232a&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHURJUNIOR&hide_border=1&theme=react&hide=issues&langs_count=5&custom_title=Top%20Languages"/>
-<div>
-
-
-
-
-
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/arthug7)](https://twitter.com/arthug7)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devarthur/)](https://www.linkedin.com/in/devarthur/) 
@@ -42,8 +32,6 @@
   
 <br>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arthurjunior&hide=contribs,prs&show_icons=true&theme=onedark"/>
-  <div align="right"><img width="300px" height="250px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"></div>
 
 ## ⚡️ Technologies
 
