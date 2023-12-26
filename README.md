@@ -1,11 +1,7 @@
-<img src="https://komarev.com/ghpvc/?username=arthurjunior&color=blueviolet&style=flat">
-<div align='center'>
-    <a href="https://github.com/arthurjunior">
-</div>
 
 </div>
-  <p></p>
-  ### ♠️ About Me ♦️
+  <pre>                                                   ### ♠️ About Me ♦️  </pre>
+ 
  
 ```js
    //I used "const" because I'm CONSTantly evolving
