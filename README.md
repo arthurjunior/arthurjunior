@@ -9,7 +9,7 @@
             Skills: "Software Developer",
         Main_Langs: "C#, Kotlin",
       Casual_Langs: "C#, Kotlin, Python, SQL",
-              Tech: "Git, GitLab, HTML, CSS, .Net, Android Studio, IA",
+              Tech: "Git, GitLab, HTML, CSS, .Net, Android Studio, API, IA",
 
     };
 
