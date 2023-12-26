@@ -25,7 +25,6 @@
 
 ## ⚡️ Technologies
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-      <br></br>
 These are some of the technologies and tools that I like and study:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,cs,dotnet,mysql,html,css,git,github,gitlab,)](https://skillicons.dev)
 
