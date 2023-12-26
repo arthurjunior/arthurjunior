@@ -11,9 +11,9 @@
    //I used "const" because I'm CONSTantly evolving
    const Me = {
             Skills: "Software Developer",
-        Main_Langs: "C#",
+        Main_Langs: "C#, Kotlin",
       Casual_Langs: "C#, Kotlin, Python, SQL",
-              Tech: "Git, NodeJs, React, HTML, CSS, .Net",
+              Tech: "Git, NodeJs, React, HTML, CSS, .Net, Android",
 
     };
 
