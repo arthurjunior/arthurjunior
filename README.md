@@ -36,6 +36,7 @@
 ## ⚡️ Technologies
 
 These are some of the technologies and tools that I like and study:
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin,cs,dotnet,mysql,html,css,androidstudio,firebase,,git,github,gitlab,)](https://skillicons.dev)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
