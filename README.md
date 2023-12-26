@@ -36,7 +36,7 @@
 ## ⚡️ Technologies
 
 These are some of the technologies and tools that I like and study:
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,,cs,dotnet,mysql,html,css,git,github,gitlab,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,cs,dotnet,mysql,html,css,git,github,gitlab,)](https://skillicons.dev)
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
