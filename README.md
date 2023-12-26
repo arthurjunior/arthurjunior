@@ -4,7 +4,7 @@
 </div>
 
 </div>
-  
+  <p></p>
   ### ♠️ About Me ♦️
  
 ```js
@@ -21,6 +21,9 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/arthug7)](https://twitter.com/arthug7)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devarthur/)](https://www.linkedin.com/in/devarthur/) 
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
 
 
 
@@ -41,3 +44,7 @@ These are some of the technologies and tools that I like and study:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+<img src="https://komarev.com/ghpvc/?username=arthurjunior&color=blueviolet&style=flat">
+<div align='center'>
+    <a href="https://github.com/arthurjunior">
+</div>
